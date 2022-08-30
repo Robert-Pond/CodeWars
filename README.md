@@ -8,4 +8,4 @@
  However they are a good representation of the level of problem Ive been able to solve without resorting to outside resourses.
  
  Codewars as a whole is also not a fan of posting solves to their problems publicly, against the code of conduct and all that.
- SO only posting a few seemed like the better route.
+ So only posting a few seemed like the better route.
